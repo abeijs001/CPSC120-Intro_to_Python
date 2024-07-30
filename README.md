@@ -1,1 +1,3 @@
-# Assignments for ESU CPSC120: Intr to Python Programming
+# CPSC120 : Intr to Python Programming
+
+This repository contains the programming assignments of the CPSC120 course offered at ESU (Summer 2023).
